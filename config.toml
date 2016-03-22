@@ -1,6 +1,6 @@
 siteTitle="ui-manage docs"
 baseColor = "#884499"
-linkPrefix = "/gatsby-starter-documentation"
+linkPrefix = "/neustar-react-docs"
 docPages = [
   "/docs/",
   "/docs/inject/",
